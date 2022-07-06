@@ -64,7 +64,7 @@
   
     
   
-  <meta name="description" content="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum." />
+  <meta name="description" content="Sequential recommendation, multi-hop reasoning, taxonomy." />
 
   
   <link rel="alternate" hreflang="en-us" href="https://example.com/publication/wsdm2019/" />
@@ -310,7 +310,7 @@
   <meta property="og:site_name" content="Jin Huang" />
   <meta property="og:url" content="https://example.com/publication/wsdm2019/" />
   <meta property="og:title" content="Taxonomy-Aware Multi-Hop Reasoning Networks for Sequential Recommendation | Jin Huang" />
-  <meta property="og:description" content="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum." /><meta property="og:image" content="https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png" />
+  <meta property="og:description" content="Sequential recommendation, multi-hop reasoning, taxonomy." /><meta property="og:image" content="https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png" />
     <meta property="twitter:image" content="https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png" /><meta property="og:locale" content="en-us" />
   
     
@@ -361,7 +361,7 @@
       "url": "https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_192x192_fill_lanczos_center_3.png"
     }
   },
-  "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum."
+  "description": "Sequential recommendation, multi-hop reasoning, taxonomy."
 }
 </script>
 
@@ -793,7 +793,7 @@
 
     
     <h3>Abstract</h3>
-    <p class="pub-abstract">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.</p>
+    <p class="pub-abstract">In this paper, we focus on the task of sequential recommendation using taxonomy data. Existing sequential recommendation methods usually adopt a single vectorized representation for learning the overall sequential characteristics, and have a limited modeling capacity in capturing multi-grained sequential characteristics over context information. Besides, existing methods often directly take the feature vectors derived from context information as auxiliary input, which is difficult to fully exploit the structural patterns in context information for learning preference representations. To address above issues, we propose a novel Taxonomy-aware Multi-hop Reasoning Network, named TMRN, which integrates a basic GRU-based sequential recommender with an elaborately designed memory-based multi-hop reasoning architecture. For enhancing the reasoning capacity, we incorporate taxonomy data as structural knowledge to instruct the learning of our model. We associate the learning of user preference in sequential recommendation with the category hierarchy in the taxonomy. Given a user, for each recommendation, we learn a unique preference representation corresponding to each level in the taxonomy based on her/his overall sequential preference. In this way, the overall, coarse-grained preference representation can be gradually refined in different levels from general to specific, and we are able to capture the evolvement and refinement of user preference over the taxonomy, which makes our model highly explainable. Extensive experiments show that our proposed model is superior to state-of-the-art baselines in terms of both effectiveness and interpretability.</p>
     
 
     
@@ -831,17 +831,21 @@
 
     <div class="space-below"></div>
 
-    <div class="article-style"><div class="alert alert-note">
+    <div class="article-style"><!-- <div class="alert alert-note">
   <div>
     Click the <em>Cite</em> button above to demo the feature to enable visitors to import publication metadata into their reference management software.
   </div>
 </div>
+
+
 <div class="alert alert-note">
   <div>
     Create your slides in Markdown - click the <em>Slides</em> button to check out the example.
   </div>
 </div>
-<p>Supplementary notes can be added here, including <a href="https://wowchemy.com/docs/writing-markdown-latex/" target="_blank" rel="noopener">code, math, and images</a>.</p>
+
+
+Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). -->
 </div>
 
     
