@@ -4,27 +4,33 @@
   
   
   <url>
-    <loc>https://example.com/</loc><lastmod>2022-07-13T11:15:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc></loc><lastmod>2023-10-18T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://example.com/publication-type/0/</loc><lastmod>2023-10-18T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://example.com/</loc><lastmod>2023-10-18T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc></loc><lastmod>2023-10-18T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc></loc><lastmod>2023-10-18T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc></loc><lastmod>2023-10-18T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://example.com/publication_types/</loc><lastmod>2023-10-18T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://example.com/publication/</loc><lastmod>2023-10-18T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://example.com/publication/drl4ir_cikm2023/</loc><lastmod>2023-10-18T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://example.com/event/</loc><lastmod>2022-07-13T11:15:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://example.com/talk/state-encoders-in-reinforcement-learning-for-recommendation-a-reproducibility-study/</loc><lastmod>2022-07-13T11:15:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc></loc><lastmod>2022-07-10T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://example.com/publication-type/1/</loc><lastmod>2022-07-10T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc></loc><lastmod>2022-07-10T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc></loc><lastmod>2022-07-10T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc></loc><lastmod>2022-07-10T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc></loc><lastmod>2022-07-10T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://example.com/publication_types/</loc><lastmod>2022-07-10T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://example.com/publication/</loc><lastmod>2022-07-10T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://example.com/publication/sigir2022/</loc><lastmod>2022-07-10T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
@@ -75,6 +81,10 @@
     <loc></loc><lastmod>2018-07-11T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://example.com/publication/sigir2018/</loc><lastmod>2018-07-11T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://example.com/privacy/</loc><lastmod>2018-06-28T00:00:00+01:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://example.com/terms/</loc><lastmod>2018-06-28T00:00:00+01:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://example.com/tag/deep-learning/</loc><lastmod>2016-04-27T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
