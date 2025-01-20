@@ -4,31 +4,43 @@
   
   
   <url>
-    <loc></loc><lastmod>2023-10-18T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc></loc><lastmod>2024-12-16T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://example.com/publication-type/1/</loc><lastmod>2024-12-16T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc></loc><lastmod>2024-12-16T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://example.com/publication/zhao2025revisiting/</loc><lastmod>2024-12-16T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://example.com/</loc><lastmod>2024-12-16T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc></loc><lastmod>2024-12-16T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc></loc><lastmod>2024-12-16T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://example.com/publication_types/</loc><lastmod>2024-12-16T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://example.com/publication/</loc><lastmod>2024-12-16T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc></loc><lastmod>2024-12-16T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://example.com/publication/huang2024going/</loc><lastmod>2024-07-11T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc></loc><lastmod>2024-07-11T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc></loc><lastmod>2024-07-11T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc></loc><lastmod>2024-07-11T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://example.com/publication-type/0/</loc><lastmod>2023-10-18T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://example.com/</loc><lastmod>2023-10-18T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
     <loc></loc><lastmod>2023-10-18T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc></loc><lastmod>2023-10-18T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc></loc><lastmod>2023-10-18T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://example.com/publication_types/</loc><lastmod>2023-10-18T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://example.com/publication/</loc><lastmod>2023-10-18T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://example.com/publication/drl4ir_cikm2023/</loc><lastmod>2023-10-18T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://example.com/talks/</loc><lastmod>2022-07-13T11:15:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://example.com/talks/sigir2022/</loc><lastmod>2022-07-13T11:15:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://example.com/publication-type/1/</loc><lastmod>2022-07-10T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc></loc><lastmod>2022-07-10T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc></loc><lastmod>2022-07-10T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
@@ -55,8 +67,6 @@
     <loc>https://example.com/tag/%E5%BC%80%E6%BA%90/</loc><lastmod>2020-12-13T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://example.com/category/%E6%95%99%E7%A8%8B/</loc><lastmod>2020-12-13T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc></loc><lastmod>2020-09-22T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://example.com/publication/recsys2020/</loc><lastmod>2020-09-22T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
